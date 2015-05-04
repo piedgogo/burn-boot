@@ -7,6 +7,7 @@
 # done), received characters are displayed as is (or escaped trough pythons
 # repr, useful for debug purposes)
 
+#a simple term
 
 import sys, os, serial, threading
 
